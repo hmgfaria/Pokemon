@@ -29,4 +29,4 @@ I will split this in 3 main objectives, showcasing different complexity:
   Not sure if this will be possible, but the ultimate goal would be to develop a virtual Pokedex! Show it an image, identify the Pokemon and show its stats.
 
 ## 📦 Datasets
-I will use Kaggle datasets, which will be included here as I go along 
+I am using [Pokemon with Stats Dataset](https://www.kaggle.com/abcsds/pokemon) from Kaggle Datasets
