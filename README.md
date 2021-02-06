@@ -2,7 +2,9 @@
 Pokémon is a japanese media franchise centered on fictional creatures called "Pokémon", which humans, known as Pokémon Trainers, catch and train to battle each other for sport.
 
 ## 📍 Objectives
-The purpose of this repository is to explore and analyse the PokeWorld, while learning and improving Data Science, Deep Learning and Computer Vision skills. As such, the implementations presented here may not be the most elegant ones, but bear with me as I *"Catch'em All!"*
+The purpose of this repository is to explore and analyse the PokeWorld, while learning and improving Data Science, Deep Learning and Computer Vision skills. As such, the implementations presented here may not be the most elegant ones, but bear with me as I *"Catch'em All!"* 
+
+If you have any recommendations or suggestions where I can improve, just let me know!
 
 I will split this in 3 main objectives, showcasing different complexity:
 - **Exploratory Data Analysis**
